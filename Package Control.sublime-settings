@@ -5,7 +5,6 @@
 	],
 	"installed_packages":
 	[
-		"Theme - Spacegray",
 		"Alignment",
 		"All Autocomplete",
 		"AngularInject",
@@ -55,6 +54,7 @@
 		"Tag",
 		"Terminal",
 		"Theme - Primer",
+		"Theme - Spacegray",
 		"Trimmer"
 	]
 }
