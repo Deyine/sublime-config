@@ -1,1 +1,11 @@
 alias sublime=~/workspace/ide/sublime_text_3/sublime_text
+
+# Git aliases
+alias gamend="git commit --amend"
+alias gst="git status"
+alias gdf="git diff"
+alias ga="git add"
+alias gcm="git commit -m"
+alias grm="git rm"
+alias gp="git push"
+alias gpr="git pull --rebase"
