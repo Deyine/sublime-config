@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"1337 Color Scheme",
 		"Alignment",
 		"All Autocomplete",
 		"AngularInject",
@@ -39,22 +40,20 @@
 		"Markdown Preview",
 		"Markmon real-time markdown preview",
 		"Material Theme",
+		"Material Theme - Appbar",
+		"Material Theme - White Panels",
 		"Node Completions",
 		"Nodejs",
 		"NodeRequirer",
 		"Package Control",
 		"PackageResourceViewer",
 		"Project Sync",
-		"Rsync SSH",
-		"SFTP",
 		"SideBarEnhancements",
 		"StandardFormat",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"Tag",
 		"Terminal",
-		"Theme - Primer",
-		"Theme - Spacegray",
 		"Trimmer"
 	]
 }
