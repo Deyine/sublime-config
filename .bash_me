@@ -1,4 +1,17 @@
-alias sublime=~/workspace/ide/sublime_text_3/sublime_text
+# Java config
+export JAVA_HOME=/opt/jdk1.8.0_91
+pathmunge $JAVA_HOME/bin after
+
+#Android Config
+export ANDROID_HOME=/home/djiddou/Android/Sdk
+pathmunge $ANDROID_HOME/tools after
+pathmunge $ANDROID_HOME/platform-tools after
+pathmunge $ANDROID_HOME/build-tools/24.0.1 after
+
+#Launchers aliases
+
+alias sublime=/home/djiddou/tools/ide/sublime_text_3/sublime_text
+alias astudio=/home/djiddou/tools/ide/android-studio/bin/studio
 
 # Git aliases
 alias gamend="git commit --amend"
@@ -9,3 +22,4 @@ alias gcm="git commit -m"
 alias grm="git rm"
 alias gp="git push"
 alias gpr="git pull --rebase"
+
