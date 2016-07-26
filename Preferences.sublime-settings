@@ -7,12 +7,12 @@
 	[
 		"Vintage"
 	],
+	"material_theme_accent_yellow": true,
+	"material_theme_appbar_cyan": true,
 	"material_theme_bold_tab": true,
+	"material_theme_contrast_mode": true,
 	"material_theme_panel_separator": true,
 	"material_theme_tree_headings": true,
-	"material_theme_appbar_cyan": true,
-	"material_theme_accent_yellow" : true,
-	"material_theme_contrast_mode" : true,
 	"original_color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
 	"rulers":
 	[
