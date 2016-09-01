@@ -13,3 +13,5 @@ if [ -f ~/.bash_me ]; then
         . ~/.bash_me
 fi
 ```
+# Useful packages
+* install https://github.com/jonls/redshift
