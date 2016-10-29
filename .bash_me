@@ -22,4 +22,5 @@ alias gcm="git commit -m"
 alias grm="git rm"
 alias gp="git push"
 alias gpr="git pull --rebase"
+alias permission-reset='git diff -p | grep -E "^(diff|old mode|new mode)" | sed -e "s/^old/NEW/;s/^new/old/;s/^NEW/new/" | git apply'
 
